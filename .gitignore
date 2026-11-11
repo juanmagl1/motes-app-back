@@ -1,0 +1,10 @@
+/target
+/.idea
+/.vscode
+*.iml
+*.log
+/data
+build_error.txt
+build_log.txt
+compile_output.txt
+test_output.txt
