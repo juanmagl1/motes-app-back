@@ -3,7 +3,7 @@
 /.vscode
 *.iml
 *.log
-/data
+*.trace.db
 build_error.txt
 build_log.txt
 compile_output.txt
